@@ -1,4 +1,7 @@
 # QR-Generator-using-python
+
+:smile:
+
 Genrate QR code for your websites and much more.
 </br>
 

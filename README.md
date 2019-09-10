@@ -1,3 +1,7 @@
+[![HitCount](http://hits.dwyl.io/D-E-F-E-A-T/QR-Generator-using-python.svg)](http://hits.dwyl.io/D-E-F-E-A-T/QR-Generator-using-python)
+
+</br>
+
 # QR-Generator-using-python
 
 :smile:
